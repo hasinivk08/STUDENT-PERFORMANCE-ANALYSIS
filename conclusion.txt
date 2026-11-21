@@ -1,0 +1,33 @@
+Conclusion
+
+The Student Performance Analysis project provides a clear understanding of students' academic performance based on their marks, attendance, and departmental results. From the analysis of 12 students across four departments, the overall average mark is **74.75**, with an average attendance of **83.33%**. The IT department achieved the highest average marks of **78**, while ECE recorded the lowest average of **70**. Divya secured the highest mark of 94, followed by Meena with 91 and Vijay with 89. The analysis also reveals a strong positive relationship between attendance and academic performance. Three students were identified as requiring academic support due to low marks or attendance.
+
+Overall, this project demonstrates how Excel functions, formulas, sorting, filtering, charts, conditional formatting, and data analysis tools can be used to evaluate student performance effectively. It helps identify academic strengths and weaknesses and supports better decision-making to improve students' academic achievements.
+
+Part E – Interpretation
+
+1. Which department has the highest average marks?
+
+Answer: IT department has the highest average marks of 78.
+
+2. Who are the top three performers?
+
+Answer:
+1. Divya – 94 marks
+2. Meena – 91 marks
+3. Vijay – 89 marks
+3. How many students have attendance below 75%?
+
+Answer: 2 students – Anitha (68%) and Rahul (70%).
+
+4. What is the relationship between attendance and marks?
+
+Answer: There is a very strong positive relationship between attendance and marks. Students with higher attendance generally score higher marks. The correlation coefficient is 0.97.
+
+5. Which students require academic support?
+
+Answer: 3 students require academic support:
+- Rahul – 58 marks
+- Anitha – 48 marks
+- Manoj – 55 marks
+These students need additional academic guidance to improve their performance.
